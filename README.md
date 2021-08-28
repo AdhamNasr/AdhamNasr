@@ -17,4 +17,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamNasr&count_private=true&show_icons=true&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNasr&layout=compact&exclude_repo=Gictorbit.github.io&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNasr&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)
