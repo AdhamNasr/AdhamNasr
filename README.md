@@ -19,3 +19,5 @@
 [![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamNasr&count_private=true&show_icons=true&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNasr&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)
+
+[![Adham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adham_Nasr&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)
