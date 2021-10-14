@@ -28,7 +28,9 @@
 [![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/)&nbsp;
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)&nbsp;
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)&nbsp;
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)&nbsp;
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)&nbsp;
+
+&nbsp;
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
