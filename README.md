@@ -37,9 +37,11 @@
 &nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNasr&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
 
 [![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamNasr&count_private=true&show_icons=true&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
 
 [![Adham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adham_Nasr&theme=github_dark)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
 
+[![wakatime](https://wakatime.com/badge/user/0d128f3e-c83b-4a20-b73c-6a785d898a68.svg)](https://wakatime.com/@0d128f3e-c83b-4a20-b73c-6a785d898a68)&nbsp;
