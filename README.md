@@ -1,6 +1,6 @@
 # Hello there 👋 
 ### 👨🏻‍ &nbsp;I'm Adham Nasr
-- I just finished udacity's front end web-dev nano degree, and I'm currently brushing up on my python skills.
+- IT consultant | Front End Developer | System Architect
 
 
 ## 🛠 &nbsp;Tech Stack
