@@ -43,7 +43,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdhamNasr&theme=nord)](https://git.io/streak-stats)&nbsp;
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamNasr&count_private=true&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamNasr&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adham_Nasr&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
 
