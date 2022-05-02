@@ -35,8 +35,6 @@
 ###  &nbsp;Time Spent Coding Since Aug 2021
 [![wakatime](https://wakatime.com/badge/user/0d128f3e-c83b-4a20-b73c-6a785d898a68.svg)](https://wakatime.com/@0d128f3e-c83b-4a20-b73c-6a785d898a68)&nbsp;[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AdhamNasr&left_color=gray&right_color=blue
-
 &nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
