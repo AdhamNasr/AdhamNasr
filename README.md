@@ -70,12 +70,8 @@ I am currently doing a nano degree in full-stack web development and enrolled in
 
 &nbsp;
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AdhamNasr&theme=nord)](https://github-profile-trophy.vercel.app)&nbsp;
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AdhamNasr&theme=nord&row=2&column=3)](https://github-profile-trophy.vercel.app)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNasr&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdhamNasr&theme=nord)](https://git.io/streak-stats)&nbsp;
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamNasr&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamNasr&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdhamNasr&theme=nord)](https://git.io/streak-stats)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adham_Nasr&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNasr&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
