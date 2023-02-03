@@ -70,7 +70,7 @@ I am currently doing a nano degree in full-stack web development and enrolled in
 
 &nbsp;
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AdhamNasr&theme=nord&row=2&column=3)](https://github-profile-trophy.vercel.app)&nbsp;
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AdhamNasr&theme=nord&column=-1)](https://github-profile-trophy.vercel.app)&nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdhamNasr&theme=nord)](https://git.io/streak-stats)&nbsp;
 
