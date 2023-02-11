@@ -79,3 +79,5 @@ I am currently doing a nano degree in full-stack web development and enrolled in
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adham_Nasr&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNasr&theme=nord)](https://github.com/AdhamNasr/github-readme-stats)&nbsp;
+
+[![Page Visits](https://visitcount.itsvg.in/api?id=AdhamNasr&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)&nbsp;
