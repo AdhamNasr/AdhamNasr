@@ -2,13 +2,11 @@
 
 ## I'm [Adham Nasr](https://adhamnasr.dev)
 
-IT consultant | System Architect | Web Developer | DevOps Engineer & Founder at [The Geek Tweax](https://www.thegeektweax.com)
+IT consultant | System Architect | Web Developer | DevOps Engineer & Founder at [Propulsive Technologies](https://www.propulsive.tech)
 
 I'm passionate about technology in general, with a particular interest in music and computers.
 
 I am a secure network and IT infrastructure enthusiast, a system architect with an interest in Linux systems, and a certified front-end web developer.
-
-I am currently doing a nano degree in full-stack web development and enrolled in a Google Cloud Associate scholarship, expanding my OS architecture and Linux knowledge; and finally aiming to launch my services as a start-up before the end of the year.
 
 ---
 
